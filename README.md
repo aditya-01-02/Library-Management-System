@@ -73,12 +73,9 @@ No external packages required. Built with Python 3.x using only standard librari
 
 💡 Custom Exceptions
 
-BookNotFoundError
-
-BookAlreadyBorrowedError
-
-UserLimitExceededError
-
-UserNotFoundError
+BookNotFoundError, 
+ BookAlreadyBorrowedError, 
+ UserLimitExceededError, 
+ UserNotFoundError
 
 Defined in exceptions.py to improve code readability and control flow.
