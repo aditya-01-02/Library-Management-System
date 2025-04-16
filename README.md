@@ -3,6 +3,7 @@
 A command-line based Library Management System (LMS) built with Python, supporting book borrowing/returning, user registration, book search, and overdue tracking. It handles both digital and printed books with persistent data storage using JSON files.
 
 
+
 🚀 Features
 📖 Book Management: Add digital or printed books with ISBNs.
 
@@ -19,7 +20,9 @@ A command-line based Library Management System (LMS) built with Python, supporti
 🚫 Custom Exception Handling: Clear error feedback for missing books, users, and limit violations.
 
 
+
 🗂 File Structure
+
 
 📦Library-Management-System
 ├── main.py              # Command-line interface
@@ -31,16 +34,17 @@ A command-line based Library Management System (LMS) built with Python, supporti
 └── README.md            # Project documentation
 
 
+
 🛠 How to Run
 
-Clone the repository:
 
+Clone the repository:
 git clone https://github.com/your-username/Library-Management-System.git
 cd Library-Management-System
 
 Run the program:
-
 python main.py
+
 
 
 📋 Menu Options
@@ -55,9 +59,11 @@ python main.py
 9. Exit
 
 
+
 📌 Dependencies
 
 No external packages required. Built with Python 3.x using only standard libraries.
+
 
 
 💡 Custom Exceptions
