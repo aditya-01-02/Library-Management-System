@@ -45,7 +45,7 @@ A command-line based Library Management System (LMS) built with Python, supporti
 
 Clone the repository:
 
-    git clone https://github.com/your-username/Library-Management-System.git
+    git clone https://github.com/aditya-01-02/Library-Management-System.git
     cd Library-Management-System
 
 Run the program:
